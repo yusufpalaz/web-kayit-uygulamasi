@@ -5,6 +5,9 @@
 ```bash
 git init
 git status
+git add -A
+git config --global user.name "Adınız"
+git config --global user.email "siz@e-posta.com"
 ```
 
 ## Uygulamayı Çalıştırma
